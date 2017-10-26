@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Using the 'diff' command on 2 files outputs any differences to the command line. This allows for easy comparison of the files, allowing the user to idenfity any bugs within the code.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Having access to the previous versions of the file make it easy to compare and restore files in a fast and efficient manner. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The pros of a manual commit include user flexibility and commits are likely made on a compiled, well functioning code. On the other hand, the user may forget to make a commit or make too many commits leading to a large version history.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Saving a snapshot of all the files in a repository is particularly useful (even necessary) for programmers since many files can be contain modules and pieces of the codebase. On the other hand, other version control systems like Google Docs were designed for operating on single files like Word documents or Photos. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    The 'git log' command can be used to print out all commit's (ID's and messages) to the current repository. Changes between the 2 commit's can be made done using the 'git diff <commit ID 1> <commit ID 2>
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    With version control, older versions of the code that have worked are easier to restore and also easy to compare to the latest version.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    For version control on new and existing projects.
