@@ -24,5 +24,7 @@ Diagrams allow you to draw the branches to visualise parent nodes better.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Using git merge <branch1> <branch2> merges the codebase from the 2 coins together.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
