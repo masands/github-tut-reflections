@@ -19,6 +19,8 @@ Branches allow the user to add new features or experimental changes to the code 
 
 How do the diagrams help you visualize the branch structure?
 
+Diagrams allow you to draw the branches to visualise parent nodes better.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
