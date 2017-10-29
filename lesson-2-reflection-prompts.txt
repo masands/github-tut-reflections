@@ -15,6 +15,8 @@ By using the git -add <filename> command, individual files with single logical c
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Branches allow the user to add new features or experimental changes to the code without disrupting the main codebase.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
