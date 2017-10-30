@@ -28,3 +28,5 @@ Using git merge <branch1> <branch2> merges the codebase from the 2 coins togethe
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Automatic merging makes it easy to merge large codebases together. However, this could lead to code that does not compile or run. Therefore, commits with conflicts need to be handled manually. 
